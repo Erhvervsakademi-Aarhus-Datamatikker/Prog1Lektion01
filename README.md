@@ -64,13 +64,13 @@ Lav i pakken opgave05 et program der udskriver et ansigt i stil med nedenståend
 
 ![Billede2.png](images/Billede2.png)
 
-### Opgave 5
+### Opgave 6
 
 Lav i pakken opgave06 et program der udskriver en tegning i stil med nedenstående:
 
 ![Billede3.png](images/Billede3.png)
 
-### Opgave 6 *
+### Opgave 7 *
 
 *Dette er opgave 1.7 fra undervisningsbogen.*
 
@@ -86,7 +86,7 @@ $\pi = 4 * (1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} - \frac{1}
 
 Brug 1.0 i stedet for 1, hvor 1 forekommer i formlen. 
 
-### Opgave 7 *
+### Opgave 8 *
 
 *Dette er opgave 1.8 fra undervisningsbogen.* 
 
@@ -101,7 +101,7 @@ Til $\pi$ kan du bruge konstanten
 
     Math.PI
 
-### Opgave 8*
+### Opgave 9*
 
 *Dette er opgave 1.10 fra bogen*
 
